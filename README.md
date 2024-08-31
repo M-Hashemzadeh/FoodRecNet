@@ -15,7 +15,7 @@ S. Hamdollahi Oskouei and M. Hashemzadeh, "FoodRecNet: a comprehensively persona
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
-Authors’ Emails: saeed.hamdollahi[at]azaruniv.ac.ir (S. Hamdollahi Oskouei), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: saeed.hamdollahi[at]azaruniv.ac.ir (S. Hamdollahi Oskouei) & hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
 
 ### The AllRecipesRec3M dataset is available for research purposes upon request.
 

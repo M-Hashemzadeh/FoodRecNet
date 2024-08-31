@@ -4,7 +4,6 @@ from keras.models import Model
 from keras.layers import Input, Dense, concatenate
 import keras.backend as K
 
-
 # train data generator
 def train_data_generator(batch_size=100):
     reader = pd.read_csv("train.txt", delimiter="#", low_memory=False, chunksize=batch_size, dtype=np.str)

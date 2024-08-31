@@ -5,7 +5,6 @@ from keras.layers import Input, Dense, Conv2D, MaxPooling2D, Flatten, concatenat
 from keras.preprocessing import image
 import keras.backend as K
 
-
 # train data generator
 def train_data_generator(batch_size=100):
     reader = pd.read_csv("train.txt", delimiter="#", low_memory=False, chunksize=batch_size, dtype=np.str)

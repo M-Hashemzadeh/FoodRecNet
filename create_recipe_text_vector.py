@@ -7,6 +7,7 @@ import os.path
 from keras.preprocessing.text import Tokenizer
 from nltk.corpus import stopwords
 
+
 # connect to database
 conn = psycopg2.connect(host="", database="", user="", password="")
 #cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)

@@ -5,7 +5,6 @@ import psycopg2
 import psycopg2.extras
 import os.path
 
-
 # connect to database
 conn = psycopg2.connect(host="", database="", user="", password="")
 #cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
